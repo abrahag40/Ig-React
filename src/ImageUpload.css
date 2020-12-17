@@ -1,0 +1,13 @@
+.imageUpload {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: 10px auto 10px auto;
+    /* position: fixed; */
+    bottom: 0;
+    background-color: whitesmoke;
+}
+
+.imageUpload__progess {
+    width: 100%;
+}
